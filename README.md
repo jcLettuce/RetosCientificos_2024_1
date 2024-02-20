@@ -1,7 +1,9 @@
 # Cilindros Danzantes
 ## Integrantes
 -*Juan Pablo Celis Avila*
--*Gregory Garcia Esteban*
+
+-*Gregory Garcia Esteban*  
+
 -*Jose Mario Castillo Muñoz*
 
 ### Objetivos 
