@@ -11,8 +11,9 @@ Google Scholar:
 Youtube:  
 1.  nombre: Strange Spinning Tubes - Numberphile  
     Canal: [Numberphile](https://www.youtube.com/@numberphile)  
-    Enlace: https://www.youtube.com/watch?v=JuuYFt8bahE  
-2.  nombre: Spinning Tube Trick    
+    Enlace: https://www.youtube.com/watch?v=JuuYFt8bahE
+      
+3.  nombre: Spinning Tube Trick    
     Canal: [Veritasium](https://www.youtube.com/@veritasium)  
     Enlace: <https://youtu.be/wQTVcaA3PQw?si=7CnaaxFaehfQlZhr>  
 
