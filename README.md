@@ -8,7 +8,7 @@
 
 ### Objetivos 
 
-*Objetivo general:* Estudiar el movimiento rotacional de un cilindro sobre una superficie plana horizontal y el efecto estroboscópico que este produce para ciertas marcas sobre él. 
+*Objetivo general:* Estudiar el movimiento rotacional de un cilindro con marcas sobre una superficie plana horizontal y el efecto estroboscópico que este produce.
 
 *Objetivos específicos:* 
 - Estudiar con teoría del cuerpo rígido este fenómeno.
