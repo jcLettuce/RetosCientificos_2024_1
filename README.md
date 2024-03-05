@@ -15,5 +15,5 @@
 - Realizar código para simular el movimiento del cilindro danzante.
 - Ordenar y graficar los datos que entrega el código y cómo varían con los parámetros.
 - Analizar vídeos del cilindro danzante mediante Tracker.
-- Comparar los valores que entregan los códigos con los de Tracker.
+- Comparar y analizar las diferencias entre los valores que entrega el código con los de Tracker.
 
