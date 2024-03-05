@@ -12,8 +12,8 @@
 
 *Objetivos específicos:* 
 - Estudiar con teoría del cuerpo rígido este fenómeno.
-- Realizar simulaciones del cilindro danzante.
-- Ordenar y graficar los datos y cómo varían con los parámetros.
+- Realizar código para simular el movimiento del cilindro danzante.
+- Ordenar y graficar los datos que entrega el código y cómo varían con los parámetros.
 - Analizar vídeos del cilindro danzante mediante Tracker.
 - Comparar los valores que entregan los códigos con los de Tracker.
 
