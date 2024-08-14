@@ -1,4 +1,4 @@
-# Cilindros Danzantes
+# Aro Saltarín
 ## Integrantes
 -*Juan Pablo Celis Avila*
 
@@ -8,10 +8,10 @@
 
 ### Objetivos 
 
-*Objetivo general:* Estudiar el movimiento rotacional una distribución de masa desbalanceada y el efecto  que este produce.
+*Objetivo general:* Estudiar el movimiento rotacional una distribución de masa circular desbalanceada y encontrar parámetros relevantes.
 
 *Objetivos específicos:* 
-- Estudiar con teoría del cuerpo rígido este fenómeno.
+- 
 - Realizar código para simular el movimiento del cilindro danzante.
 - Ordenar y graficar los datos que entrega el código y cómo varían con los parámetros.
 - Analizar vídeos del cilindro danzante mediante Tracker.
