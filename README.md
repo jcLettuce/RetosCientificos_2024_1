@@ -2,13 +2,13 @@
 ## Integrantes
 -*Juan Pablo Celis Avila*
 
--*Gregory Garcia Esteban*  
+-*Dylan Alexander Castellanos Jaimes*  
 
--*Jose Mario Castillo Muñoz*
+-*Robert Orcasitas García*
 
 ### Objetivos 
 
-*Objetivo general:* Estudiar el movimiento rotacional de un cilindro con marcas sobre una superficie plana horizontal y el efecto estroboscópico que este produce.
+*Objetivo general:* Estudiar el movimiento rotacional una distribución de masa desbalanceada y el efecto  que este produce.
 
 *Objetivos específicos:* 
 - Estudiar con teoría del cuerpo rígido este fenómeno.
