@@ -6,7 +6,7 @@
 
 -*Robert Orcasitas García*
 
-### Objetivos 
+### Objetivos:
 
 *Objetivo general:* Estudiar el movimiento rotacional una distribución de masa circular desbalanceada y encontrar parámetros relevantes.
 
