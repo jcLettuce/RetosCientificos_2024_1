@@ -8,12 +8,10 @@
 
 ### Objetivos:
 
-*Objetivo general:* Estudiar el movimiento rotacional una distribución de masa circular desbalanceada y encontrar parámetros relevantes.
+*Objetivo general:* Estudiar el fenomeno de un salto que realiza un movimiento rotacional de una distribución de masa circular desbalanceada y encontrar parámetros relevantes.
 
 *Objetivos específicos:* 
-- 
-- Realizar código para simular el movimiento del cilindro danzante.
-- Ordenar y graficar los datos que entrega el código y cómo varían con los parámetros.
-- Analizar vídeos del cilindro danzante mediante Tracker.
+- Analizar vídeos de diferentes distribuciones desequilibrada de masas en una rueda mediante Tracker.
+- Realizar código para simular el movimiento del aro saltarín.
 - Comparar y analizar las diferencias entre los valores que entrega el código con los de Tracker.
-
+- Determinar si es factible replicar este comportamiento con una distribución desequilibrada de masas en cualquier rueda.
